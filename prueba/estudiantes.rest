@@ -7,15 +7,15 @@ GET http://127.0.0.1:5000/autores/:1
 
 ###
 
-POST http://127.0.0.1:5000/Autor
+POST http://127.0.0.1:5000/autores
 Accept: application/json
 Content-Type: application/json
 
 {
-"ID_Autor_a": "1",
-"Nombre_a": "Juan",
-"Apellido_a": "Perez",
-"Fecha_Nacimiento_a": "1990-05-15"
+"ID_Autor_a": "6",
+"Nombre_a": "Raul",
+"Apellido_a": "Mamani",
+"Fecha_Nacimiento_a": "1995-05-15"
 }
 
 
